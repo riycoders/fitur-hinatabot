@@ -191,7 +191,7 @@ MAIN MENU
 ```
 
 ## THIS SCRIPT FOR SALE
-`
+```ts
 minat? sung wa saya, untuk nomer ada dibawah ini.
-nomor: https://wa.me/6281575886399
-`
+Klik(https://wa.me/6281575886399)
+```
