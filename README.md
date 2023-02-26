@@ -189,9 +189,3 @@ MAIN MENU
 • #broadcast
 • #dym
 ```
-
-## THIS SCRIPT FOR SALE
-```ts
-minat? sung wa saya, untuk nomer ada dibawah ini.
-Klik(https://wa.me/6281575886399)
-```
