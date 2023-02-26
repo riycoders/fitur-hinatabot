@@ -1,4 +1,4 @@
-## FITUR NYA:
+## FITUR NYA
 `
 MAIN MENU
 • #menu
