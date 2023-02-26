@@ -34,8 +34,8 @@ MAIN MENU
 • #kurang
 • #kali
 • #bagi
- ≻ proses (reply pesan)
- ≻ done (reply pesan)
+  proses (reply pesan)
+  done (reply pesan)
 
  CONVERTER/TOOLS
 • #sticker
