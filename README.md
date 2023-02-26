@@ -1,5 +1,5 @@
 ## FITUR NYA
-`
+```ts
 MAIN MENU
 • #menu
 • #infobot
@@ -188,7 +188,7 @@ MAIN MENU
 • #resetlimit
 • #broadcast
 • #dym
-`
+```
 
 ## THIS SCRIPT FOR SALE
 `
